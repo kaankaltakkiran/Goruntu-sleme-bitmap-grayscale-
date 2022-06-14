@@ -1,0 +1,20 @@
+C:\Users\kaan_\source\repos\hafta_12\hafta_12\bin\Debug\hafta_12.exe.config
+C:\Users\kaan_\source\repos\hafta_12\hafta_12\bin\Debug\hafta_12.exe
+C:\Users\kaan_\source\repos\hafta_12\hafta_12\bin\Debug\hafta_12.pdb
+C:\Users\kaan_\source\repos\hafta_12\hafta_12\obj\Debug\hafta_12.csproj.AssemblyReference.cache
+C:\Users\kaan_\source\repos\hafta_12\hafta_12\obj\Debug\hafta_12.Form1.resources
+C:\Users\kaan_\source\repos\hafta_12\hafta_12\obj\Debug\hafta_12.Properties.Resources.resources
+C:\Users\kaan_\source\repos\hafta_12\hafta_12\obj\Debug\hafta_12.csproj.GenerateResource.cache
+C:\Users\kaan_\source\repos\hafta_12\hafta_12\obj\Debug\hafta_12.csproj.CoreCompileInputs.cache
+C:\Users\kaan_\source\repos\hafta_12\hafta_12\obj\Debug\hafta_12.exe
+C:\Users\kaan_\source\repos\hafta_12\hafta_12\obj\Debug\hafta_12.pdb
+C:\Users\kaan_\Desktop\hafta 12 ödev\hafta_12\hafta_12\bin\Debug\hafta_12.exe.config
+C:\Users\kaan_\Desktop\hafta 12 ödev\hafta_12\hafta_12\bin\Debug\hafta_12.exe
+C:\Users\kaan_\Desktop\hafta 12 ödev\hafta_12\hafta_12\bin\Debug\hafta_12.pdb
+C:\Users\kaan_\Desktop\hafta 12 ödev\hafta_12\hafta_12\obj\Debug\hafta_12.csproj.AssemblyReference.cache
+C:\Users\kaan_\Desktop\hafta 12 ödev\hafta_12\hafta_12\obj\Debug\hafta_12.Form1.resources
+C:\Users\kaan_\Desktop\hafta 12 ödev\hafta_12\hafta_12\obj\Debug\hafta_12.Properties.Resources.resources
+C:\Users\kaan_\Desktop\hafta 12 ödev\hafta_12\hafta_12\obj\Debug\hafta_12.csproj.GenerateResource.cache
+C:\Users\kaan_\Desktop\hafta 12 ödev\hafta_12\hafta_12\obj\Debug\hafta_12.csproj.CoreCompileInputs.cache
+C:\Users\kaan_\Desktop\hafta 12 ödev\hafta_12\hafta_12\obj\Debug\hafta_12.exe
+C:\Users\kaan_\Desktop\hafta 12 ödev\hafta_12\hafta_12\obj\Debug\hafta_12.pdb
